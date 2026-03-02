@@ -9,7 +9,7 @@ assignees: ''
 
 **Como** [rol]  
  **Necesito** [función]  
- **Para que** [beneficio]  
+ **Para** [beneficio]  
    
  ### Detalles y Suposiciones
  * [documenta lo que sabes]
